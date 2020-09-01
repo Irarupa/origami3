@@ -1,0 +1,54 @@
+
+.line{
+    color:rebeccapurple ;
+}
+
+button{
+    border-radius: 30px;
+    width: 150px;
+    height: 100px;
+   background-color: goldenrod;
+}
+
+.list{
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: space-evenly;
+    opacity: 1;
+}
+
+.colour{
+    color:gold;
+    background-color: firebrick;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+   
+}
+
+.font{
+    font-size: larger;
+    color: white;
+    font-style: italic;
+    font-stretch: wider;
+    font-size: 78;
+    text-align: center;
+
+}
+title{
+    font-style: italic;
+}
+
+.screen{
+ background-image: url("back44.jpg"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
+}
+
+body{
+    background-color: rgb(212,216,157);
+}
+
